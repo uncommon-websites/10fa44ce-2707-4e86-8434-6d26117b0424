@@ -1,0 +1,15 @@
+export { default as Header } from './Header.svelte';
+export { default as Hero } from './Hero.svelte';
+export { default as TrustedBy } from './TrustedBy.svelte';
+export { default as ValueProp } from './ValueProp.svelte';
+export { default as Features } from './Features.svelte';
+export { default as Testimonials } from './Testimonials.svelte';
+export { default as Engagement } from './Engagement.svelte';
+export { default as EasyManagement } from './EasyManagement.svelte';
+export { default as Stats } from './Stats.svelte';
+export { default as UseCases } from './UseCases.svelte';
+export { default as Security } from './Security.svelte';
+export { default as Integrations } from './Integrations.svelte';
+export { default as Industries } from './Industries.svelte';
+export { default as ROI } from './ROI.svelte';
+export { default as Footer } from './Footer.svelte';
