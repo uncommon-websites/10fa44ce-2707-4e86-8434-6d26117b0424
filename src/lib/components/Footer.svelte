@@ -4,11 +4,11 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 rounded-3xl overflow-hidden shadow-2xl">
             <!-- Left Image -->
             <div class="relative h-[500px] lg:h-auto">
-                <img src="https://images.unsplash.com/photo-1583332130317-de7b2adb9e64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Worker" class="w-full h-full object-cover" />
+                <img src="/generated/image-a-busy-swim-school-administrator-at-a-cl-1768533802121-2.webp" alt="Administrator" class="w-full h-full object-cover" />
                 <div class="absolute inset-0 bg-black/30 flex items-center justify-center p-8 text-center">
                     <h2 class="text-5xl md:text-6xl font-bold text-white leading-tight">
-                        TURN <span class="inline-block border border-white rounded-full px-4 py-1 mx-1 text-4xl align-middle">EVERY</span><br />
-                        staff into an expert
+                        RUN <span class="inline-block border border-white rounded-full px-4 py-1 mx-1 text-4xl align-middle text-primary-400">SMOOTHER</span><br />
+                        with SwimFlow
                     </h2>
                 </div>
             </div>
@@ -18,23 +18,23 @@
                 <div class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-6">Book a demo</div>
                 <h2 class="text-3xl md:text-4xl font-bold mb-6">
                     Achieve operational<br />
-                    excellence with Bounti
+                    excellence today
                 </h2>
                 <p class="text-gray-400 mb-8">
-                    Train your team faster, increase revenue, and reduce turnover.
+                    Stop stitching tools together. Start focusing on your programs, your people, and your growth.
                 </p>
                 <ul class="space-y-3 mb-10 text-sm">
                     <li class="flex items-center gap-3">
-                        <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
-                        Train 100% of your employees with a single tap
+                        <svg class="w-5 h-5 text-primary-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                        Unified scheduling and waitlist management
                     </li>
                     <li class="flex items-center gap-3">
-                        <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
-                        Identify, manage, and close skill gaps
+                        <svg class="w-5 h-5 text-primary-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                        Automated billing and recurring payments
                     </li>
                     <li class="flex items-center gap-3">
-                        <svg class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
-                        Run daily operations with checklists and ensure compliance
+                        <svg class="w-5 h-5 text-primary-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" /></svg>
+                        Centralized parent and staff communication
                     </li>
                 </ul>
                 <button class="bg-white text-black px-8 py-3 rounded-full font-bold w-full md:w-fit flex items-center justify-center gap-2 hover:bg-gray-200 transition-colors mb-12">
@@ -42,7 +42,7 @@
                 </button>
 
                 <div class="border-t border-gray-800 pt-8">
-                    <div class="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-4">Trusted by companies of all sizes</div>
+                    <div class="text-[10px] font-bold text-gray-500 uppercase tracking-widest mb-4">Trusted by top swim school operators</div>
                     <div class="flex gap-6 opacity-50 grayscale">
                         <div class="h-6 w-20 bg-gray-600 rounded"></div>
                         <div class="h-6 w-20 bg-gray-600 rounded"></div>
@@ -59,18 +59,18 @@
             <!-- Brand -->
             <div class="lg:col-span-2">
                 <div class="flex items-center gap-2 mb-6">
-                    <div class="w-8 h-8 bg-black rounded-lg flex items-center justify-center text-white font-bold">b</div>
-                    <span class="font-bold text-xl">bounti</span>
+                    <div class="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold">S</div>
+                    <span class="font-bold text-xl">SwimFlow</span>
                 </div>
                 <p class="text-gray-500 text-sm mb-8 max-w-xs">
-                    The mobile training and operations platform for your frontline staff.
+                    The specialized management platform for swim schools and youth sports programs.
                 </p>
                 
-                <div class="mb-2 text-sm font-bold text-gray-900">Sign up for email updates</div>
-                <p class="text-gray-500 text-xs mb-4">Keep up to date with Bounti news and product features</p>
+                <div class="mb-2 text-sm font-bold text-gray-900">Sign up for updates</div>
+                <p class="text-gray-500 text-xs mb-4">Stay updated with SwimFlow news and product features</p>
                 <div class="flex gap-2">
                     <input type="email" placeholder="Your email address" class="bg-gray-50 border border-gray-200 rounded-lg px-4 py-2 text-sm w-full focus:outline-none focus:border-black" />
-                    <button class="bg-black text-white px-4 py-2 rounded-lg text-sm font-bold">Subscribe to newsletter ↗</button>
+                    <button class="bg-black text-white px-4 py-2 rounded-lg text-sm font-bold whitespace-nowrap">Subscribe ↗</button>
                 </div>
             </div>
 
@@ -78,9 +78,9 @@
             <div>
                 <h4 class="font-bold text-gray-900 mb-4 text-sm">Product</h4>
                 <ul class="space-y-2 text-sm text-gray-500">
-                    <li><a href="#" class="hover:text-black">Training Platform</a></li>
-                    <li><a href="#" class="hover:text-black">Skill Management</a></li>
-                    <li><a href="#" class="hover:text-black">Audits</a></li>
+                    <li><a href="#" class="hover:text-black">Scheduling</a></li>
+                    <li><a href="#" class="hover:text-black">Billing</a></li>
+                    <li><a href="#" class="hover:text-black">Communication</a></li>
                     <li><a href="#" class="hover:text-black">Integrations</a></li>
                 </ul>
             </div>
@@ -88,24 +88,22 @@
             <div>
                 <h4 class="font-bold text-gray-900 mb-4 text-sm">Features</h4>
                 <ul class="space-y-2 text-sm text-gray-500">
-                    <li><a href="#" class="hover:text-black">AI Course Builder</a></li>
-                    <li><a href="#" class="hover:text-black">AI Search</a></li>
-                    <li><a href="#" class="hover:text-black">Checklists</a></li>
-                    <li><a href="#" class="hover:text-black">Document Storage</a></li>
-                    <li><a href="#" class="hover:text-black">Translations</a></li>
-                    <li><a href="#" class="hover:text-black">Communication</a></li>
-                    <li><a href="#" class="hover:text-black">Custom Branding</a></li>
+                    <li><a href="#" class="hover:text-black">Waitlists</a></li>
+                    <li><a href="#" class="hover:text-black">Makeups</a></li>
+                    <li><a href="#" class="hover:text-black">Assessments</a></li>
+                    <li><a href="#" class="hover:text-black">Staff Portal</a></li>
+                    <li><a href="#" class="hover:text-black">Parent Portal</a></li>
+                    <li><a href="#" class="hover:text-black">Multi-location</a></li>
                 </ul>
             </div>
 
             <div>
-                <h4 class="font-bold text-gray-900 mb-4 text-sm">Use Cases</h4>
+                <h4 class="font-bold text-gray-900 mb-4 text-sm">Industries</h4>
                 <ul class="space-y-2 text-sm text-gray-500">
-                    <li><a href="#" class="hover:text-black">Onboarding</a></li>
-                    <li><a href="#" class="hover:text-black">Staff Development</a></li>
-                    <li><a href="#" class="hover:text-black">Employee Assessment</a></li>
-                    <li><a href="#" class="hover:text-black">Employee Training</a></li>
-                    <li><a href="#" class="hover:text-black">Training Management</a></li>
+                    <li><a href="#" class="hover:text-black">Swim Schools</a></li>
+                    <li><a href="#" class="hover:text-black">Gymnastics</a></li>
+                    <li><a href="#" class="hover:text-black">Dance Studios</a></li>
+                    <li><a href="#" class="hover:text-black">Youth Sports</a></li>
                 </ul>
             </div>
 
@@ -116,23 +114,14 @@
                         <li><a href="#" class="hover:text-black">Pricing</a></li>
                         <li><a href="#" class="hover:text-black">About Us</a></li>
                         <li><a href="#" class="hover:text-black">Guides</a></li>
-                        <li><a href="#" class="hover:text-black">Templates</a></li>
                         <li><a href="#" class="hover:text-black">ROI Calculator</a></li>
-                    </ul>
-                 </div>
-                 <div class="mb-8">
-                    <h4 class="font-bold text-gray-900 mb-4 text-sm">Industries</h4>
-                    <ul class="space-y-2 text-sm text-gray-500">
-                        <li><a href="#" class="hover:text-black">Hospitality & Leisure</a></li>
-                        <li><a href="#" class="hover:text-black">Food production</a></li>
-                        <li><a href="#" class="hover:text-black">Retail & Service</a></li>
                     </ul>
                  </div>
                  <div>
                     <h4 class="font-bold text-gray-900 mb-4 text-sm">Security</h4>
                     <ul class="space-y-2 text-sm text-gray-500">
                         <li><a href="#" class="hover:text-black">Trust Centre</a></li>
-                        <li><a href="#" class="hover:text-black">Status</a></li>
+                        <li><a href="#" class="hover:text-black">Privacy Policy</a></li>
                     </ul>
                  </div>
             </div>
@@ -140,14 +129,11 @@
 
         <div class="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-400">
             <div>
-                © 2024 HonuSoft GmbH. All rights reserved.
+                © 2024 SwimFlow. All rights reserved.
             </div>
             <div class="flex gap-6">
-                <a href="#" class="hover:text-black">Imprint</a>
-                <a href="#" class="hover:text-black">Privacy Policy</a>
-            </div>
-            <div class="max-w-xs text-right hidden md:block">
-                We use cookies to personalize content, run ads, and analyze traffic. <a href="#" class="underline text-black">Okay</a>
+                <a href="#" class="hover:text-black">Terms</a>
+                <a href="#" class="hover:text-black">Privacy</a>
             </div>
         </div>
     </div>

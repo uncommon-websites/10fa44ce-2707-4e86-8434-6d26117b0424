@@ -6,8 +6,8 @@
     <div class="container mx-auto px-4 max-w-7xl h-20 flex items-center justify-between">
         <!-- Logo -->
         <a href="/" class="flex items-center gap-2">
-            <div class="w-8 h-8 bg-black rounded-lg flex items-center justify-center text-white font-bold">b</div>
-            <span class="font-bold text-xl tracking-tight">bounti</span>
+            <div class="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold">S</div>
+            <span class="font-bold text-xl tracking-tight">SwimFlow</span>
         </a>
 
         <!-- Desktop Nav -->
@@ -24,14 +24,8 @@
                     <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
                 </span>
             </div>
-            <div class="group relative cursor-pointer py-2">
-                <span class="hover:text-black transition-colors flex items-center gap-1">
-                    Use Cases
-                    <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" /></svg>
-                </span>
-            </div>
-            <a href="#" class="hover:text-black transition-colors">Industries</a>
-            <a href="#" class="hover:text-black transition-colors">Security</a>
+            <a href="#" class="hover:text-black transition-colors">Pricing</a>
+            <a href="#" class="hover:text-black transition-colors">About</a>
         </nav>
 
         <!-- Right Actions -->
